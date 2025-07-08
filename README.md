@@ -15,14 +15,6 @@ This project implements a sophisticated customer support chatbot leveraging the 
 - **CI/CD Pipeline**: Automated deployment using AWS CodePipeline
 - **Monitoring**: Comprehensive logging and monitoring via AWS CloudWatch
 
-## Model Details
-
-The fine-tuned model is hosted on Hugging Face:
-- Model Repository: [praneethposina/customer_support_bot](https://huggingface.co/praneethposina/customer_support_bot)
-- Base Model: LLaMA 3.1 8B
-- Training Dataset: Bitext Customer Support Dataset
-- Optimization: LoRA fine-tuning with quantization
-
 ## Tech Stack
 
 - **Backend**: Flask API
